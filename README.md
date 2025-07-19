@@ -39,8 +39,7 @@ Positive Feedback WordCloud	Negative Feedback WordCloud
 
 🚀 How to Run
 Clone the repository
-git clone https://github.com/yourusername/COLLEGE_EVENT_FEEDBACK_ANALYSIS.git
-
+(https://github.com/KeerthikaParthasarathy/future-intern-task-3.git)
 Navigate to the folder
 cd COLLEGE_EVENT_FEEDBACK_ANALYSIS
 
